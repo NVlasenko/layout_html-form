@@ -1,1 +1,11 @@
-/* styles go here */
+.input_property {
+  margin-bottom: 10px;
+}
+
+.vertical_property {
+  margin-bottom: 20px;
+}
+
+.property {
+  margin-top: 10px;
+}
